@@ -1,0 +1,3 @@
+# change the activate configuration profile in gcloud
+gcloud config configurations list
+gcloud config configurations activate {MY_ANOTHER_CONFIG}
